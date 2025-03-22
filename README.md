@@ -165,5 +165,6 @@ thermostat.SetTemperature(22.0f);
 // 5. El dispositivo lanza evento y la plataforma reacciona
 // Resultado: "Termostato Nest cambió a 22.0°C" (por ejemplo)
 ```
+## Resumen de Flujo
 ![image](https://github.com/user-attachments/assets/9b950950-0e23-4781-b563-4b2496a3ec47)
 
